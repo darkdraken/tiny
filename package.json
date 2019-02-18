@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "draken/tiny",
+  "repository": "darkdraken/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
